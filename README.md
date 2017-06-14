@@ -3,6 +3,7 @@
 ----------
   - [Editing software](#editing-software)
   - [Royalty-free music](#royalty-free-music)
+  - [Learning resources](#learning-resources)
 
 ## Editing software
 
@@ -37,3 +38,15 @@ _Paid:_
  * [Audio Network](http://www.audionetwork.com/)
  * [Epidemic Sound](http://www.epidemicsound.com/)
  * [The Music Bed](https://www.musicbed.com/)
+
+## Learning resources
+
+**[`^        back to top        ^`](#)**
+
+_YouTube channels:_
+ * [Dave Dugdale](https://www.youtube.com/user/drumat5280)
+ * [DSLRguide](https://www.youtube.com/user/DSLRguide)
+ * [Film Riot](https://www.youtube.com/user/filmriot)
+ * [Onyx Cinema](https://www.youtube.com/user/onyxcinemainc)
+ * [Philip Bloom](https://www.youtube.com/user/philipbloom)
+ * [Video Copilot](https://www.youtube.com/user/videocopilot)

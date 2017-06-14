@@ -2,6 +2,7 @@
 
 ----------
   - [Editing software](#editing-software)
+  - [Royalty-free music](#royalty-free-music)
 
 ## Editing software
 
@@ -20,3 +21,19 @@ _Paid:_
  * [Avid Media Composer](https://www.avid.com/de/media-composer) - Industry-standard NLE by Avid.
  * [Catalyst Edit](http://www.sonycreativesoftware.com/de/catalystedit) - Editing software by Sony, former Sony Vegas.
  * [HitFilm Pro](https://hitfilm.com/pro) - Pro version of HitFilm, also includes compositing features.
+
+## Royalty-free music
+
+**[`^        back to top        ^`](#)**
+
+_Free:_
+ * [Bensound](http://www.bensound.com/)
+ * [CCMixter](http://ccmixter.org/)
+ * [Free Music Archive](http://freemusicarchive.org/)
+ * [Freesound](http://www.freesound.org/browse/tags/music/)
+ * [Incompetech](http://incompetech.com/music/royalty-free/)
+
+_Paid:_
+ * [Audio Network](http://www.audionetwork.com/)
+ * [Epidemic Sound](http://www.epidemicsound.com/)
+ * [The Music Bed](https://www.musicbed.com/)

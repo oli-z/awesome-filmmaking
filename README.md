@@ -10,8 +10,6 @@
 
 ## Editing software
 
-**[`^        back to top        ^`](#)**
-
 _Free:_
  * [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design.
  * [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm; limited, but perfect for beginners.
@@ -38,8 +36,6 @@ _Paid:_
 
 ## Royalty-free music
 
-**[`^        back to top        ^`](#)**
-
 _Free:_
  * [Bensound](http://www.bensound.com/)
  * [CCMixter](http://ccmixter.org/)
@@ -53,8 +49,6 @@ _Paid:_
  * [The Music Bed](https://www.musicbed.com/)
 
 ## Learning resources
-
-**[`^        back to top        ^`](#)**
 
 _Blogs:_
  * [No Film School](http://nofilmschool.com/)

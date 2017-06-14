@@ -5,6 +5,8 @@
   - [VFX software](#vfx-software)
   - [Royalty-free music](#royalty-free-music)
   - [Learning resources](#learning-resources)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Editing software
 
@@ -61,3 +63,16 @@ _YouTube channels:_
  * [Onyx Cinema](https://www.youtube.com/user/onyxcinemainc)
  * [Philip Bloom](https://www.youtube.com/user/philipbloom)
  * [Video Copilot](https://www.youtube.com/user/videocopilot)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, oli-z has waived all copyright and
+related or neighboring rights to this work.

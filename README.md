@@ -2,6 +2,7 @@
 
 ----------
   - [Editing software](#editing-software)
+  - [VFX software](#vfx-software)
   - [Royalty-free music](#royalty-free-music)
   - [Learning resources](#learning-resources)
 
@@ -9,12 +10,9 @@
 
 **[`^        back to top        ^`](#)**
 
-_Open Source:_
-
-
 _Free:_
  * [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design.
- * [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm.
+ * [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm; limited, but perfect for beginners.
 
 _Paid:_
  * [Adobe Premiere Pro CC](http://www.adobe.com/de/products/premiere.html) - Powerful NLE by Adobe, part of Creative Cloud.
@@ -22,6 +20,19 @@ _Paid:_
  * [Avid Media Composer](https://www.avid.com/de/media-composer) - Industry-standard NLE by Avid.
  * [Catalyst Edit](http://www.sonycreativesoftware.com/de/catalystedit) - Editing software by Sony, former Sony Vegas.
  * [HitFilm Pro](https://hitfilm.com/pro) - Pro version of HitFilm, also includes compositing features.
+
+## VFX software
+
+_Free:_
+ * [Blender](https://www.blender.org/) - Open source 3D software.
+ * [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
+ * [Natron](https://natron.fr/) - Open source node-based compositing software.
+
+_Paid:_
+ * [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - 3D modelling and animation software by Autodesk.
+ * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
+ * [Maya](https://www.autodesk.de/products/maya/overview) - Another 3D modelling and animation software by Autodesk.
+ * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry.
 
 ## Royalty-free music
 

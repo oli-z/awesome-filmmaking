@@ -7,10 +7,8 @@ project you agree to abide by its terms.
 ---
 
 Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+ - A minimum of 3 entries are required to start a new category, otherwise add to the Misc/Other category.
+ - Entries should be ordered alphabetically.
 
 Thank you for your suggestions!
 

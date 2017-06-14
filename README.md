@@ -56,13 +56,17 @@ _Paid:_
 
 **[`^        back to top        ^`](#)**
 
+_Blogs:_
+ * [No Film School](http://nofilmschool.com/)
+ * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
+ 
 _YouTube channels:_
  * [Dave Dugdale](https://www.youtube.com/user/drumat5280)
- * [DSLRguide](https://www.youtube.com/user/DSLRguide)
- * [Film Riot](https://www.youtube.com/user/filmriot)
+ * [DSLRguide](https://www.youtube.com/user/DSLRguide) - Tutorials and inspiring videos about cinematography.
+ * [Film Riot](https://www.youtube.com/user/filmriot) - Weekly show about filmmaking.
  * [Onyx Cinema](https://www.youtube.com/user/onyxcinemainc)
- * [Philip Bloom](https://www.youtube.com/user/philipbloom)
- * [Video Copilot](https://www.youtube.com/user/videocopilot)
+ * [Philip Bloom](https://www.youtube.com/user/philipbloom) - Filmmaker, mostly known for in-depth camera reviews.
+ * [Video Copilot](https://www.youtube.com/user/videocopilot) - Visual effects tutorials, mostly for Adobe After Effects.
 
 
 ## Contribute

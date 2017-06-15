@@ -34,7 +34,7 @@ _Paid:_
  * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
  * [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
  * [Natron](https://natron.fr/) - Open source node-based compositing software.
- * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry._Free:_
+ * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry.
 
 ## Royalty-free music
 

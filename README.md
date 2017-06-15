@@ -50,7 +50,7 @@ _Paid:_
 
 ## Learning resources
 
-_Blogs:_
+_Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  

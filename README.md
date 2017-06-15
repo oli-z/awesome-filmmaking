@@ -3,6 +3,8 @@
 ----------
   - [Editing software](#editing-software)
   - [VFX software](#vfx-software)
+    - [3D](#3d)
+    - [Compositing](#compositing)
   - [Royalty-free music](#royalty-free-music)
   - [Learning resources](#learning-resources)
   - [Contribute](#contribute)
@@ -23,16 +25,16 @@ _Paid:_
 
 ## VFX software
 
-_Free:_
+### 3D
+ * [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - 3D modelling and animation software by Autodesk.
  * [Blender](https://www.blender.org/) - Open source 3D software.
+ * [Maya](https://www.autodesk.de/products/maya/overview) - Another 3D modelling and animation software by Autodesk.
+
+### Compositing
+ * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
  * [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
  * [Natron](https://natron.fr/) - Open source node-based compositing software.
-
-_Paid:_
- * [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - 3D modelling and animation software by Autodesk.
- * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
- * [Maya](https://www.autodesk.de/products/maya/overview) - Another 3D modelling and animation software by Autodesk.
- * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry.
+ * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry._Free:_
 
 ## Royalty-free music
 

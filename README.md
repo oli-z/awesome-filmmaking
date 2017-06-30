@@ -13,6 +13,7 @@
 ## Editing software
 
 _Free:_
+ * [Avid Media Composer First](http://www.avid.com/media-composer-first) - Free version of Avids Media Composer
  * [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design.
  * [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm; limited, but perfect for beginners.
 

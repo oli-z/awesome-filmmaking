@@ -14,7 +14,7 @@
 
 _Free:_
  * [Avid Media Composer First](http://www.avid.com/media-composer-first) - Free version of Avids Media Composer
- * [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design.
+ * [Blackmagic Design DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - Powerful color grading and editing software by Blackmagic Design, needs a lot of ressources.
  * [HitFilm Express](https://hitfilm.com/express) - Free version of HitFilm; limited, but perfect for beginners.
 
 _Paid:_
@@ -35,7 +35,7 @@ _Paid:_
  * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.
  * [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
  * [Natron](https://natron.fr/) - Open source node-based compositing software.
- * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry.
+ * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
 
 ## Royalty-free music
 

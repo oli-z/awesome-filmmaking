@@ -5,6 +5,7 @@
   - [VFX software](#vfx-software)
     - [3D](#3d)
     - [Compositing](#compositing)
+  - [On-set tools](#on-set-tools)
   - [Royalty-free music](#royalty-free-music)
   - [Learning resources](#learning-resources)
   - [Contribute](#contribute)
@@ -36,6 +37,10 @@ _Paid:_
  * [Fusion](https://www.blackmagicdesign.com/de/products/fusion) - Free node-based compositing software from Blackmagic Design.
  * [Natron](https://natron.fr/) - Open source node-based compositing software.
  * [Nuke](https://www.foundry.com/products/nuke) - Industry standard node-based compositing software by The Foundry, has a free version for non-commercial use.
+
+## On-set tools
+
+ * [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 
 ## Royalty-free music
 

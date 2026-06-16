@@ -52,6 +52,7 @@ _Free:_
  * [Incompetech](http://incompetech.com/music/royalty-free/)
 
 _Paid:_
+  * [BySFX](https://bysfx.com) - Pay-once royalty-free sound effects, logo idents and music. Own the license forever, no subscription.
  * [Audio Network](http://www.audionetwork.com/)
  * [Epidemic Sound](http://www.epidemicsound.com/)
  * [The Music Bed](https://www.musicbed.com/)

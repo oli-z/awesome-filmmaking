@@ -31,6 +31,7 @@ _Paid:_
  * [3ds Max](https://www.autodesk.de/products/3ds-max/overview) - 3D modelling and animation software by Autodesk.
  * [Blender](https://www.blender.org/) - Open source 3D software.
  * [Maya](https://www.autodesk.de/products/maya/overview) - Another 3D modelling and animation software by Autodesk.
+ * [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit (live tween, motion trails, pose library, Mixamo-to-Unreal retarget); an affordable animBot alternative with full Python source.
 
 ### Compositing
  * [Adobe After Effects CC](http://www.adobe.com/de/products/aftereffects.html) - Layer-based compositing software, part of Creative Cloud.

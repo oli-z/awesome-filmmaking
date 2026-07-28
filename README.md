@@ -6,6 +6,7 @@
     - [3D](#3d)
     - [Compositing](#compositing)
   - [On-set tools](#on-set-tools)
+  - [File transfer](#file-transfer)
   - [Royalty-free music](#royalty-free-music)
   - [Learning resources](#learning-resources)
   - [Contribute](#contribute)
@@ -42,6 +43,10 @@ _Paid:_
 ## On-set tools
 
  * [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+
+## File transfer
+
+ * [8ma Quick Transfer](https://t.8ma.co/en/?from=github-awesome-filmmaking) - Free, no-sign-up browser tool for direct peer-to-peer transfer of large footage files and project folders; desktop Chrome and Edge support files up to 200 GB.
 
 ## Royalty-free music
 

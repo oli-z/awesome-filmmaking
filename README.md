@@ -63,6 +63,7 @@ _Paid:_
 _Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
+ * [MediaHedge Knowledgebase](https://mediafinance.guide) - Free public wiki on film and television finance: collateral, tax credits, completion protection, waterfalls, and a plain-English glossary.
  
 _YouTube channels:_
  * [Dave Dugdale](https://www.youtube.com/user/drumat5280)

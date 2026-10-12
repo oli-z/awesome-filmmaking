@@ -42,6 +42,7 @@ _Paid:_
 ## On-set tools
 
  * [FrameCoach](https://framecoach.io) - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+ * [mmMover](https://mmmover.video) - Free camera card offload for Windows and macOS: copies a card to several drives at once, verifies every file from disk and writes ASC MHL, PDF reports and proxies with camera LUTs.
 
 ## Royalty-free music
 

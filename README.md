@@ -61,6 +61,7 @@ _Paid:_
 ## Learning resources
 
 _Blogs/Websites:_
+ * [imgmov AI Video Prompt Guide](https://imgmov.com/blog/2026-07-08-ai-video-prompts) - Publisher guide with scene examples for describing subject motion, camera movement and lighting.
  * [No Film School](http://nofilmschool.com/)
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  

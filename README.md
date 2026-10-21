@@ -62,6 +62,7 @@ _Paid:_
 
 _Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
+ * [vflow](https://vflow.live/browse/?utm_source=github&utm_medium=referral&utm_campaign=free_traffic_20261020&utm_content=directory_filmmaking_v1) - Free AI-video reference library for studying camera movement and lighting, pairing previews with source text and original creator links.
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  
 _YouTube channels:_

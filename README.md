@@ -63,6 +63,7 @@ _Paid:_
 _Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
+ * [VideoCreate Seedance prompt cases](https://videocreate.org/prompts/seedance) - Five September 2026 clips generated in Doubao, with exact prompts, shot sheets, and documented successes and misses.
  
 _YouTube channels:_
  * [Dave Dugdale](https://www.youtube.com/user/drumat5280)

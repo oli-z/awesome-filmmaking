@@ -61,6 +61,7 @@ _Paid:_
 ## Learning resources
 
 _Blogs/Websites:_
+ * [Creative Handoff Kit](https://github.com/SilentStorm290/queststudio-creative-handoff-kit) - A voiceover handoff sheet, asset checks and CSV logs for handing AI-generated assets to an editor, with a hypothetical worked example.
  * [No Film School](http://nofilmschool.com/)
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  

@@ -24,6 +24,7 @@ _Paid:_
  * [Avid Media Composer](https://www.avid.com/de/media-composer) - Industry-standard NLE by Avid.
  * [Catalyst Edit](http://www.sonycreativesoftware.com/de/catalystedit) - Editing software by Sony, former Sony Vegas.
  * [HitFilm Pro](https://hitfilm.com/pro) - Pro version of HitFilm, also includes compositing features.
+ * [Valmera](https://valmera.io/edit-video-by-chatting-with-ai) - Browser-based editor for directing cuts and captions on uploaded footage in chat, reviewing revisions and exporting an MP4.
 
 ## VFX software
 

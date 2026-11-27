@@ -51,6 +51,7 @@ _Free:_
  * [Free Music Archive](http://freemusicarchive.org/)
  * [Freesound](http://www.freesound.org/browse/tags/music/)
  * [Incompetech](http://incompetech.com/music/royalty-free/)
+* [No Kings Music (free selection)](https://nokingsmusic.com/product-category/free/) - Production music for film and video. Free account and credit required.
 
 _Paid:_
   * [BySFX](https://bysfx.com) - Pay-once royalty-free sound effects, logo idents and music. Own the license forever, no subscription.
